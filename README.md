@@ -1,14 +1,14 @@
 # SmartPark
 
-Projeto final das disciplinas de Padrões de Arquitetura de Software e Software para Computação Ubíqua
+Projeto final das disciplinas de Padrões de Arquitetura de Software e Software para Computação Ubíqua  
+Drive: [link](https://drive.google.com/drive/u/1/folders/1oeRHFLwK7X5eI4soyAKVhkeMn246VeLP)
 
 ## Discentes:
 - Bruna do Espirito Santo Sousa
 - Layane Grazielle Souza Dias
 - Pedro Ivo Santana Melo
 
-
-  ## Sobre o Projeto
+## Sobre o Projeto
 
 - **Objetivo:**    
   SmartPark é um estacionamento inteligente, que visa facilitar a busca por vagas do estacionamento, economizando tempo e reduzindo o tráfego desnecessário.   
