@@ -25,3 +25,8 @@ Drive: [link](https://drive.google.com/drive/u/1/folders/1oeRHFLwK7X5eI4soyAKVhk
 **Redução de Emissões:** Menos tempo procurando estacionamento resulta em menos emissões de poluentes, contribuindo para um ambiente mais limpo.   
 **Melhoria na Experiência do Usuário:** Os usuários têm uma experiência de estacionamento mais eficiente e conveniente, utilizando a tecnologia para facilitar suas atividades diárias.   
 **Otimização do Uso do Espaço:** O sistema contribui para uma melhor utilização do espaço disponível, evitando vagas desnecessariamente ocupadas.   
+
+## Diagrama Casos de uso
+![CasosDeUso](Requisitos/DiagramaCasosdeUso.png)
+## Diagrama Arquitetura 
+![Arquitetura](Arquitetura/DiagramaArq.png)
