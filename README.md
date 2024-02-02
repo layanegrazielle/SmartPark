@@ -30,3 +30,6 @@ Drive: [link](https://drive.google.com/drive/u/1/folders/1oeRHFLwK7X5eI4soyAKVhk
 ![CasosDeUso](Requisitos/DiagramaCasosdeUso.png)
 ## Diagrama Arquitetura 
 ![Arquitetura](Arquitetura/DiagramaArq.png)
+
+## Aplicação mobile
+Devido o tamanho não era possivel deixar nesse repositório, os 2 app se encontram nesse link, app com mapa de vagas e de acesso ao sensor do celular: [link](https://drive.google.com/drive/folders/1VCRIYNhtO1mrKKiv0-260kAjX08XAHDt?usp=sharing)
