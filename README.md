@@ -30,6 +30,8 @@ Drive: [link](https://drive.google.com/drive/u/1/folders/1oeRHFLwK7X5eI4soyAKVhk
 ![CasosDeUso](Requisitos/DiagramaCasosdeUso.png)
 ## Diagrama Arquitetura 
 ![Arquitetura](Arquitetura/DiagramaArq.png)
-
+## Apresentação/Slides
+Link dos slides usados durante a apresentação final do dia 02/02/2024:
+[link](https://www.canva.com/design/DAF7lY8XSBU/zlPXj0Pnw37ocu4_0wlH5w/edit?utm_content=DAF7lY8XSBU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Aplicação mobile
-Devido o tamanho não era possivel deixar nesse repositório, os 2 app se encontram nesse link, app com mapa de vagas e app para acesso ao sensor do smartphone: [link](https://drive.google.com/drive/folders/1VCRIYNhtO1mrKKiv0-260kAjX08XAHDt?usp=sharing)
+Devido o tamanho não era possivel deixar nesse repositório, os 2 app se encontram nesse link, app com mapa de vagas e app para acesso ao sensor do smartphone: [link](https://drive.google.com/drive/folders/1VCRIYNhtO1mrKKiv0-260kAjX08XAHDt?usp=sharing). Os APKs também estão na mesma pasta.
